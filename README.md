@@ -10,3 +10,4 @@
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./algorithms/AddTwoNumbers/AddTwoNumbers.cc)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [C++](./algorithms/LongestPalindromicSubstring/LongestPalindromicSubstring.cc)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum) | [C++](./algorithms/3sum/3sum.cc)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [C++](./algorithms/LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.cc)|Medium|
