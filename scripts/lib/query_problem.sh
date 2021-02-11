@@ -66,6 +66,8 @@ function query_problem()
 
     QUESTION_CATEGORY=$(xidel ${OPT} ${TMP_JSON_FILE} -e '$json("data").question.categoryTitle')
     
+    QUESTION_TOPTAGS=$(xidel ${OPT} ${TMP_JSON_FILE} -e '$json("data").question.topicTags')
+	
     rm -f $TMP_JSON_FILE
 }
 
