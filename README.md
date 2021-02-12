@@ -17,3 +17,5 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [C++](./algorithms/ValidParentheses/ValidParentheses.cc)|Easy|String, Stack|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [C++](./algorithms/ContainerWithMostWater/ContainerWithMostWater.cc)|Medium|Array, Two Pointers|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [C++](./algorithms/LetterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber.cc)|Medium|String, Backtracking, Depth-first Search, Recursion|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [C++](./algorithms/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.cc)|Medium|Linked List, Two Pointers|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [C++](./algorithms/MergeTwoSortedLists/MergeTwoSortedLists.cc)|Easy|Linked List, Recursion|
