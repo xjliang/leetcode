@@ -34,7 +34,7 @@ using namespace std;
 
 class Solution1 {
  public:
-	 std::vector<std::vector<std::string>> groupAnagrams(const std::vector<std::string>& strs) {
+  std::vector<std::vector<std::string>> groupAnagrams(const std::vector<std::string>& strs) {
     std::unordered_map<std::string, std::vector<std::string>> dict;
     for (const auto& str : strs) {
       std::string temp(str);
@@ -42,11 +42,11 @@ class Solution1 {
       dict[temp].push_back(str);
     }
     
-		std::vector<std::vector<std::string>> result;
+    std::vector<std::vector<std::string>> result;
     for (auto& item : dict) {
       result.push_back(item.second);
     }
-		std::cout << dict["aet"].size() << std::endl;
+    std::cout << dict["aet"].size() << std::endl;
     return result;
   }
 };
@@ -65,7 +65,7 @@ class Solution2 {
     for (auto&& item : dict) {
       result.push_back(std::move(item.second));
     }
-		std::cout << dict["aet"].size() << std::endl;
+    std::cout << dict["aet"].size() << std::endl;
     return result;
   }
 };
