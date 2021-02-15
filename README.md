@@ -22,3 +22,5 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [C++](./algorithms/SearchInRotatedSortedArray/SearchInRotatedSortedArray.cc)|Medium|Array, Binary Search|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](./algorithms/CombinationSum/CombinationSum.cc)|Medium|Array, Backtracking|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image) | [C++](./algorithms/RotateImage/RotateImage.cc)|Medium|Array|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./algorithms/GroupAnagrams/GroupAnagrams.cc)|Medium|Hash Table, String|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [C++](./algorithms/MaximumSubarray/MaximumSubarray.cc)|Easy|Array, Divide and Conquer, Dynamic Programming|
