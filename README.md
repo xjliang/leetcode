@@ -24,3 +24,6 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image) | [C++](./algorithms/RotateImage/RotateImage.cc)|Medium|Array|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./algorithms/GroupAnagrams/GroupAnagrams.cc)|Medium|Hash Table, String|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [C++](./algorithms/MaximumSubarray/MaximumSubarray.cc)|Easy|Array, Divide and Conquer, Dynamic Programming|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./algorithms/JumpGame/JumpGame.cc)|Medium|Array, Greedy|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals) | [C++](./algorithms/MergeIntervals/MergeIntervals.cc)|Medium|Array, Sort|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths) | [C++](./algorithms/UniquePaths/UniquePaths.cc)|Medium|Array, Dynamic Programming|
