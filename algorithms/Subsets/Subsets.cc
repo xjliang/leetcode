@@ -25,10 +25,11 @@
  * 	All the numbers of nums are unique.
  ******************************************************************************************************/
 
+// Backtracking
 class Solution {
   std::vector<std::vector<int>> result;
  public:
-  vector<vector<int>> subsets(vector<int>& nums) {    
+  std::vector<std::vector<int>> subsets(std::vector<int>& nums) {    
     std::vector<int> track;
     backtrack(nums, track, 0);
     return result;
@@ -47,5 +48,26 @@ class Solution {
     track.push_back(nums[curr]);
     backtrack(nums, track, curr + 1);
     track.pop_back();
+  }
+};
+
+// Bit
+class Solution {  
+ public:
+  std::vector<std::vector<int>> subsets(const std::vector<int>& nums) {    
+    std::vector<std::vector<int>> result;    
+    const int n = 1 << nums.size();
+    const int nbits = nums.size();
+    for (int i = 0; i < n; i++) {
+      std::vector<int> temp;
+      for (int j = 0; j < nbits; j++) {        
+        if (i & (1 << j)) {
+          temp.push_back(nums[j]);
+        }
+      }
+      //result.push_back(temp);
+      result.push_back(std::move(temp));
+    }
+    return result;
   }
 };
