@@ -27,3 +27,5 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./algorithms/JumpGame/JumpGame.cc)|Medium|Array, Greedy|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals) | [C++](./algorithms/MergeIntervals/MergeIntervals.cc)|Medium|Array, Sort|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths) | [C++](./algorithms/UniquePaths/UniquePaths.cc)|Medium|Array, Dynamic Programming|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C++](./algorithms/MinimumPathSum/MinimumPathSum.cc)|Medium|Array, Dynamic Programming|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [C++](./algorithms/ClimbingStairs/ClimbingStairs.cc)|Easy|Dynamic Programming|
