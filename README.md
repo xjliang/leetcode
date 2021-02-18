@@ -31,3 +31,4 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [C++](./algorithms/ClimbingStairs/ClimbingStairs.cc)|Easy|Dynamic Programming|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance) | [C++](./algorithms/EditDistance/EditDistance.cc)|Hard|String, Dynamic Programming|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [C++](./algorithms/SortColors/SortColors.cc)|Medium|Array, Two Pointers, Sort|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [C++](./algorithms/MinimumWindowSubstring/MinimumWindowSubstring.cc)|Hard|Hash Table, Two Pointers, String, Sliding Window|
