@@ -29,3 +29,5 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths) | [C++](./algorithms/UniquePaths/UniquePaths.cc)|Medium|Array, Dynamic Programming|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C++](./algorithms/MinimumPathSum/MinimumPathSum.cc)|Medium|Array, Dynamic Programming|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [C++](./algorithms/ClimbingStairs/ClimbingStairs.cc)|Easy|Dynamic Programming|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance) | [C++](./algorithms/EditDistance/EditDistance.cc)|Hard|String, Dynamic Programming|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [C++](./algorithms/SortColors/SortColors.cc)|Medium|Array, Two Pointers, Sort|
