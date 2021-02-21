@@ -33,3 +33,5 @@
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [C++](./algorithms/SortColors/SortColors.cc)|Medium|Array, Two Pointers, Sort|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [C++](./algorithms/MinimumWindowSubstring/MinimumWindowSubstring.cc)|Hard|Hash Table, Two Pointers, String, Sliding Window|
 |79|[Word Search](https://leetcode.com/problems/word-search) | [C++](./algorithms/WordSearch/WordSearch.cc)|Medium|Array, Backtracking|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [C++](./algorithms/LargestRectangleInHistogram/LargestRectangleInHistogram.cc)|Hard|Array, Stack|
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | [C++](./algorithms/MaximalRectangle/MaximalRectangle.cc)|Hard|Array, Hash Table, Dynamic Programming, Stack|
