@@ -35,3 +35,5 @@
 |79|[Word Search](https://leetcode.com/problems/word-search) | [C++](./algorithms/WordSearch/WordSearch.cc)|Medium|Array, Backtracking|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [C++](./algorithms/LargestRectangleInHistogram/LargestRectangleInHistogram.cc)|Hard|Array, Stack|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | [C++](./algorithms/MaximalRectangle/MaximalRectangle.cc)|Hard|Array, Hash Table, Dynamic Programming, Stack|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [C++](./algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.cc)|Medium|Hash Table, Stack, Tree|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | [C++](./algorithms/UniqueBinarySearchTrees/UniqueBinarySearchTrees.cc)|Medium|Dynamic Programming, Tree|
