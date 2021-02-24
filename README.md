@@ -37,3 +37,5 @@
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | [C++](./algorithms/MaximalRectangle/MaximalRectangle.cc)|Hard|Array, Hash Table, Dynamic Programming, Stack|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [C++](./algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.cc)|Medium|Hash Table, Stack, Tree|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | [C++](./algorithms/UniqueBinarySearchTrees/UniqueBinarySearchTrees.cc)|Medium|Dynamic Programming, Tree|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [C++](./algorithms/ValidateBinarySearchTree/ValidateBinarySearchTree.cc)|Medium|Tree, Depth-first Search, Recursion|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [C++](./algorithms/SymmetricTree/SymmetricTree.cc)|Easy|Tree, Depth-first Search, Breadth-first Search|
