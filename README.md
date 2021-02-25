@@ -39,3 +39,5 @@
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | [C++](./algorithms/UniqueBinarySearchTrees/UniqueBinarySearchTrees.cc)|Medium|Dynamic Programming, Tree|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [C++](./algorithms/ValidateBinarySearchTree/ValidateBinarySearchTree.cc)|Medium|Tree, Depth-first Search, Recursion|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [C++](./algorithms/SymmetricTree/SymmetricTree.cc)|Easy|Tree, Depth-first Search, Breadth-first Search|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [C++](./algorithms/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.cc)|Medium|Tree, Breadth-first Search|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./algorithms/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.cc)|Easy|Tree, Depth-first Search, Recursion|
