@@ -120,3 +120,49 @@ class Solution {
     return newhead;
   }
 };
+
+/*
+// Definition for a Node.
+class Node {
+public:
+    int val;
+    Node* next;
+    Node* random;
+
+    Node(int _val) {
+        val = _val;
+        next = NULL;
+        random = NULL;
+    }
+};
+*/
+
+// Hash Table
+class Solution2 {
+ public:
+  Node* copyRandomList(Node* head) {
+    if (head == nullptr) {
+      return nullptr;
+    }
+
+    std::unordered_map<Node*, Node*> dict;
+    // copy
+    Node* p = head;
+    while (p) {
+      Node* pnew = new Node(p->val);
+      dict[p] = pnew;
+      p = p->next;
+    }
+
+    // link
+    p = head;
+    while (p) {
+      dict[p]->next = dict[p->next];
+      if (p->random) {
+        dict[p]->random = dict[p->random];
+      }
+      p = p->next;
+    }
+    return dict[head];
+  }
+};
