@@ -46,3 +46,5 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C++](./algorithms/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cc)|Easy|Array, Dynamic Programming|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | [C++](./algorithms/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.cc)|Hard|Tree, Depth-first Search, Recursion|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./algorithms/LongestConsecutiveSequence/LongestConsecutiveSequence.cc)|Hard|Array, Union Find|
+|136|[Single Number](https://leetcode.com/problems/single-number) | [C++](./algorithms/SingleNumber/SingleNumber.cc)|Easy|Hash Table, Bit Manipulation|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [C++](./algorithms/CopyListWithRandomPointer/CopyListWithRandomPointer.cc)|Medium|Hash Table, Linked List|
