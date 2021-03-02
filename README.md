@@ -45,3 +45,4 @@
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [C++](./algorithms/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cc)|Medium|Tree, Depth-first Search|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C++](./algorithms/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cc)|Easy|Array, Dynamic Programming|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | [C++](./algorithms/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.cc)|Hard|Tree, Depth-first Search, Recursion|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./algorithms/LongestConsecutiveSequence/LongestConsecutiveSequence.cc)|Hard|Array, Union Find|
