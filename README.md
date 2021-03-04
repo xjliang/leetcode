@@ -48,3 +48,4 @@
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [C++](./algorithms/LongestConsecutiveSequence/LongestConsecutiveSequence.cc)|Hard|Array, Union Find|
 |136|[Single Number](https://leetcode.com/problems/single-number) | [C++](./algorithms/SingleNumber/SingleNumber.cc)|Easy|Hash Table, Bit Manipulation|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [C++](./algorithms/CopyListWithRandomPointer/CopyListWithRandomPointer.cc)|Medium|Hash Table, Linked List|
+|139|[Word Break](https://leetcode.com/problems/word-break) | [C++](./algorithms/WordBreak/WordBreak.cc)|Medium|Dynamic Programming|
