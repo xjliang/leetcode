@@ -49,3 +49,5 @@
 |136|[Single Number](https://leetcode.com/problems/single-number) | [C++](./algorithms/SingleNumber/SingleNumber.cc)|Easy|Hash Table, Bit Manipulation|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [C++](./algorithms/CopyListWithRandomPointer/CopyListWithRandomPointer.cc)|Medium|Hash Table, Linked List|
 |139|[Word Break](https://leetcode.com/problems/word-break) | [C++](./algorithms/WordBreak/WordBreak.cc)|Medium|Dynamic Programming|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [C++](./algorithms/LinkedListCycle/LinkedListCycle.cc)|Easy|Linked List, Two Pointers|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [C++](./algorithms/LinkedListCycleIi/LinkedListCycleIi.cc)|Medium|Linked List, Two Pointers|
