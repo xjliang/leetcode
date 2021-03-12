@@ -51,3 +51,4 @@
 |139|[Word Break](https://leetcode.com/problems/word-break) | [C++](./algorithms/WordBreak/WordBreak.cc)|Medium|Dynamic Programming|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [C++](./algorithms/LinkedListCycle/LinkedListCycle.cc)|Easy|Linked List, Two Pointers|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [C++](./algorithms/LinkedListCycleIi/LinkedListCycleIi.cc)|Medium|Linked List, Two Pointers|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache) | [C++](./algorithms/LruCache/LruCache.cc)|Medium|Design|
